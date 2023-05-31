@@ -155,7 +155,7 @@ function App() {
     <GitProfile
       config={{
         github: {
-          username: 'arifszn',
+          username: 'ElieZoetaba',
         },
       }}
     />
@@ -265,7 +265,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'ElieZoetaba', // to hide blog section, keep it empty
     limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -433,9 +433,9 @@ You can link your social media services you're using, including LinkedIn, Twitte
 const config = {
   // ...
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'zoetaba-w-elie-25775923a',
+    twitter: 'Mr_ZOETABA_Elie',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
@@ -554,7 +554,7 @@ Your public repo from GitHub will be displayed in the `Github Projects` section 
 const config = {
   // ...
   github: {
-    username: 'arifszn',
+    username: 'ElieZoetaba',
     sortBy: 'stars',
     limit: 8,
     exclude: {
@@ -594,27 +594,8 @@ const config = {
   // ...
   blog: {
     source: 'dev',
-    username: 'arifszn',
+    username: 'ElieZoetaba',
     limit: 5,
   },
 };
 ```
-
-![Blog](https://arifszn.github.io/assets/img/hosted/gitprofile/blog.png)
-
-The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
-
-## 💖 Support
-
-<p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
-</a>
-
-## 💡 Contribute
-
-To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md).
-
-## 📄 License
-
-[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
